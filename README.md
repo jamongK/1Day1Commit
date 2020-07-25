@@ -9,5 +9,3 @@ Commit any codes or .md files about what I learned.
 - [ETC]()
 
 &nbsp;
-
-( TIL is on my NAVER blog. )
