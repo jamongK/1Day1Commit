@@ -8,4 +8,6 @@ Commit any codes or .md files about what I learned.
 - [Languages]()
 - [ETC]()
 
-* TIL is on my NAVER blog.
+&nbsp;
+
+( TIL is on my NAVER blog. )
