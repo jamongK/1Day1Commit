@@ -5,7 +5,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int temp;
 		
 		while (true) {
 			// 변 3개 길이 입력
