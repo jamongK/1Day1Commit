@@ -30,7 +30,7 @@ public class Baek10826 {
 		answer = String.valueOf(result);
 		
 		bw.write(answer);
-		bw.flush();
+		bw.flush(); // BufferedWriter 이용 시 마지막에 flush(), close() 꼭 쓸 것
 		bw.close();
 		
 		// BigInteger fibonacci[] = new BigInteger[N + 3];
