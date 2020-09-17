@@ -1,4 +1,4 @@
-# :hatched_chick: 1Day1Commit 
+# :hatched_chick: TIL
 Commit any codes or .md files about what I learned.
 
 ---
