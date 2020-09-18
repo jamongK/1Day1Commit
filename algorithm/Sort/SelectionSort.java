@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 // 시나공 정처기 - 선택 정렬
-public class SelectEX {
+public class Select {
 
 	public static void main(String[] args) {
 		int[] number = {8, 5, 6, 2, 4};
