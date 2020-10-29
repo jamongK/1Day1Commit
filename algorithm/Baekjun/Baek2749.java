@@ -23,5 +23,3 @@ public class Baek2749 {
         System.out.println(arr[(int) n]);
     }
 }
-
-출처 : https://qlyh8.tistory.com/162
