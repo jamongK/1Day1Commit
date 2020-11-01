@@ -109,6 +109,8 @@ System.out.println(today);
 ```
 클래스를 하나의 객체로 만들어주는 문법
 
+&nbsp;
+
 (예시)
 ```
 Hello h = new Hello();
