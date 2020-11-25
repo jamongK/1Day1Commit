@@ -23,7 +23,8 @@ public class JadenCase2 {
                 sb.append(" ");
             }
         }
-
+        
+        // 끝부분 스페이스도 스페이스 개수만큼 반환해줘야한다.
         int idx = s.length() - 1;
         while (s.charAt(idx) == ' ') {
             sb.append(" ");
