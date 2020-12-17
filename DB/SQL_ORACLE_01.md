@@ -1,5 +1,32 @@
 # SQL
 
+**DBMS = DB Server**
+
+&nbsp;
+
+### DB 테이블 구조
+**표 table entity**
+- data를 보관하는 객체
+- data를 CRUD 처리 가능
+
+&nbsp;
+
+**열 columm field attribute**
+- data가 보관되는 자료형 크기 지정
+
+&nbsp;
+
+**행 row record tuple**
+- vo객체 하나에 대한 정보를 표현
+
+&nbsp;
+
+**도메인 domain**
+- 하나의 column(attribute)가 가질 수 있는 값의 집합
+- ex. gender : 남 / 여
+
+&nbsp;
+
 ### **DDL  Data Definition Language  데이터 정의어**
 
 - 데이터 베이스 객체에 대해 **CREATE, ALTER, DROP**
