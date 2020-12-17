@@ -16,11 +16,17 @@
 
 - 테이블 객체의 행에 대해서 **SELECT, INSERT, UPDATE, DELETE**
 
+&nbsp;
+
 ### DCL  **Data Control Language  데이터 제어어**
 
 - user, role에 대해서 권한 **GRANT**(부여), **REVOKE**(회수)
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ### DQL1
 
@@ -32,7 +38,9 @@
 
 특정 컬럼, 특정 햄을 조회 가능, 정렬 지원
 
-### 문법 (이들을 이용해 아래 사진에 나타난 순서대로 입력)
+&nbsp;
+
+### DQL1 문법 (5-1-2-3-4-6)
 
 - **select** 검색하고자 하는 컬럼 나열 (컬럼명들 나열 or * 활용)
 - **from** 조회대상 테이블
@@ -41,8 +49,8 @@
 - **having**
 - **order by** 정렬기준
 
+&nbsp;
 
-DQL1 문법 순서
 
 ```sql
 --여러 컬럼 추출
