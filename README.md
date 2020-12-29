@@ -1,4 +1,4 @@
-# :octocat: TIL
+# :jack_o_lantern: TIL
 Commit any codes or .md files about what I learned.
 
 ---
