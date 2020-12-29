@@ -1,4 +1,4 @@
-# :smiling_imp: TIL
+# :octocat: TIL
 Commit any codes or .md files about what I learned.
 
 ---
