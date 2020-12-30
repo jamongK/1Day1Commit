@@ -10,7 +10,7 @@ Commit any codes or .md files about what I learned.
 - [Languages](https://github.com/jamongK/1Day1Commit/tree/master/Languages)
   - [Java](https://github.com/jamongK/Study/tree/master/Languages/Java)
   - [Python](https://github.com/jamongK/Study/tree/master/Languages/Python)
-- [DB](https://github.com/jamongK/Study/tree/master/DB)
+- [Database](https://github.com/jamongK/Study/tree/master/Database)
 - [ETC](https://github.com/jamongK/1Day1Commit/tree/master/ETC)
 
 &nbsp;
