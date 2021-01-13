@@ -1,5 +1,5 @@
 # :jack_o_lantern: TIL
-Commit any codes or .md files about what I learned.
+Commit any codes or .md files about what I've learned.
 
 ---
 
